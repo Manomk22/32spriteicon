@@ -1,0 +1,109 @@
+.container{
+
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cover{
+    background-image: url(sprites.svg);
+
+    width: 36px;
+    height: 36px;
+}
+.b_download_dark{
+    background-position: 0 0;
+}
+.cancelled{
+    background-position: -36px 0;
+}
+.cancelled_dark{
+    background-position: -72px 0;
+}
+.close_icon_dark{
+    background-position: -108px 0;
+}
+.close_icon_light{
+    background-position: -144px 0;
+}
+.completed{
+    background-position: -180px 0;
+}
+.copy_icon_dark{
+    background-position: -216px 0;
+}
+.copy_icon_light{
+    background-position: -252px 0;
+}
+.delete_icon{
+    background-position: -288px 0;
+}
+.download_dark{
+    background-position: -324px 0;
+}
+.download_light{
+    background-position: -360px 0;
+}
+.edit_icon{
+    background-position: -396px 0;
+}
+.hide{
+    background-position: -432px 0;
+}
+.info_icon{
+    background-position: -468px 0;
+}
+.inprogress{
+    background-position: -504px 0;
+}
+.kebab-icon_dark{
+    background-position: -540px 0;
+}
+.key_icon{
+    background-position: -576px 0;
+}
+.key_icon_light{
+    background-position: -612px 0;
+}
+.paste{
+    background-position: -648px 0;
+}
+.plus-w{
+    background-position: -684px 0;
+}
+.profile{
+    background-position: -720px 0;
+}
+.profile_icon{
+    background-position: -756px 0;
+}
+.r_delete_icon{
+    background-position: -792px 0;
+}
+.refresh_icon{
+    background-position: -828px 0;
+}
+.right-arrow{
+    background-position: -864px 0;
+}
+.right-chevron{
+    background-position: -900px 0;
+}
+.right-chevron-dark{
+    background-position: -936px 0;
+}
+.search{
+    background-position: -972px 0;
+}
+.show{
+    background-position: -1008px 0; 
+}
+.tick_checked{
+    background-position: -1044px 0;
+}
+.tick_unchecked{
+    background-position: -1080px 0;
+}
+.warning_icon{
+    background-position: -1116px 0;
+}
